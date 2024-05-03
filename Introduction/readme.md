@@ -5,8 +5,6 @@
 # Why We Use Node Js ?
 
 > Node.js uses asynchronous programming!
-
-A common task for a web server can be to open a file on the server and return the content to the client.
 #### Here is how Node.js handles a file request:-
 <ul>
   <li>Sends the task to the computer's file system.</li>
@@ -15,3 +13,5 @@ A common task for a web server can be to open a file on the server and return th
   <li>Node.js eliminates the waiting, and simply continues with the next request.</li>
    <li>Node.js runs single-threaded, non-blocking, asynchronous programming, which is very memory efficient.</li>
 </ul>
+# Common Task of Web Server
+A common task for a web server can be to open a file on the server and return the content to the client.
