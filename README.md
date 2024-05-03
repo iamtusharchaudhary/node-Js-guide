@@ -9,7 +9,15 @@ Node.js is built on the V8 JavaScript engine, the same engine used by the Google
 <hr/>
 
 # Node Basic Setup:-
-### First if all install node after that install few modules in your node i.e, require, http, express, nodemon, etc.
+### First if all install node after that install few modules in your node are:
+
+> http
+
+> require
+
+> nodemon
+
+> express
 
 # Example:-
 
