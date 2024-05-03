@@ -6,5 +6,4 @@
 
 > Node.js uses asynchronous programming!
 
-
-###### A common task for a web server can be to open a file on the server and return the content to the client.
+A common task for a web server can be to open a file on the server and return the content to the client.
