@@ -7,3 +7,11 @@
 > Node.js uses asynchronous programming!
 
 A common task for a web server can be to open a file on the server and return the content to the client.
+#### Here is how Node.js handles a file request:-
+<ul>
+  <li>Sends the task to the computer's file system.</li>
+  <li>Ready to handle the next request.</li>
+  <li>When the file system has opened and read the file, the server returns the content to the client.</li>
+  <li>Node.js eliminates the waiting, and simply continues with the next request.</li>
+   <li>Node.js runs single-threaded, non-blocking, asynchronous programming, which is very memory efficient.</li>
+</ul>
