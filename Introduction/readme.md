@@ -13,8 +13,7 @@
   <li>Node.js eliminates the waiting, and simply continues with the next request.</li>
    <li>Node.js runs single-threaded, non-blocking, asynchronous programming, which is very memory efficient.</li>
 </ul>
-
-<br/>
+<!-- <br/> -->
 
 # Common Task of Web Server
 A common task for a web server can be to open a file on the server and return the content to the client.
