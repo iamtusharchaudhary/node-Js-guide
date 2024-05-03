@@ -16,4 +16,14 @@
 <!-- <br/> -->
 
 # Common Task of Web Server
-A common task for a web server can be to open a file on the server and return the content to the client.
+#### A common task for a web server can be to open a file on the server and return the content to the client.
+
+# About Node
+<ul>
+  <li>Node.js can generate dynamic page content.</li>
+  <li>Node.js can create, open, read, write, delete, and close files on the server.</li>
+  <li>Node.js can collect form data.</li>
+  <li>Node.js can add, delete, modify data in your database.</li>
+</ul>
+
+[Node Js website](https://nodejs.org/en)
