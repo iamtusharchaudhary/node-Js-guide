@@ -50,9 +50,10 @@ module.exports = welcome
 Third-party modules are modules that are available online using the Node Package Manager(NPM). These modules can be installed in the project folder or globally. Some of the popular third-party modules are Mongoose, express, angular, and React. 
 
 ### Example:-
-<ul>
-  <li>npm install express</li>
-  <li>npm install mongoose</li>
-  <li>npm install -g @angular/cli</li>
-  <li>npm install react</li>
-</ul>
+  > npm install express
+  
+  > npm install mongoose
+  
+  > npm install -g @angular/cli
+  
+  > npm install react
