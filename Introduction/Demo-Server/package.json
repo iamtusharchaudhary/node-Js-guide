@@ -7,7 +7,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tushar",
   "license": "ISC",
   "description": "",
   "dependencies": {
