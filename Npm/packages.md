@@ -1,4 +1,9 @@
 ```
+// npm ( Node Package Manager )
+// i ( Install )
+
+npm install express ( This is also good not an any issue )
+
 
 npm i express ( Use for handling routing and middleware support )
 npm i nodemon ( Use for automatically restart the server )
