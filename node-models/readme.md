@@ -15,3 +15,5 @@ const userSchema = new mongoose.Schema({
 export const User = mongoose.model('User', userSchema);
 
 ```
+
+[Structure of Models](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
