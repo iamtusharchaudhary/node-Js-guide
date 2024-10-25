@@ -12,5 +12,9 @@ A package in Node.js contains all the files you need for a module. Modules are J
 ```
 npm install express or
 npm i express
+npm i dotenv
+npm i nodemon
+npm i jsonwebtoken
+npm i bcrypt
 
 ```
