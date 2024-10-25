@@ -24,7 +24,7 @@ Node.js is built on the V8 JavaScript engine, the same engine used by the Google
 ```
 const http = require('http');
  
-const hostname = '127.0.0.1';
+const hostname = '127.0.0.1';  // This is not mandatory, it's totally depends on you.
 const port = 3000;
  
 const server = http.createServer((req, res) => {
